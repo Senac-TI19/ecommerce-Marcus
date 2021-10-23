@@ -1,0 +1,40 @@
+.menu{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    list-style: none;
+    padding: 0;
+}
+
+.nomeProduto{
+    border: 3px double black;
+    text-align: center;
+}
+
+span{
+    font-size: 20px;
+}
+
+.imagem{
+    max-width: 200px;
+    display: block;
+    margin: 20px auto 3px auto;
+}
+
+.pesquisa{
+    width: 100%;
+}
+
+.comprar{
+    margin: 0 auto;
+    display: block;
+    width: 100px;
+    font-size: 15px;
+}
+
+.nome{
+    width: 100%;
+}
+
+
+
