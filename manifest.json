@@ -5,7 +5,6 @@
     "display": "standalone",
     "name": "Ecommerce Discos",
     "orientation": "any",
-    "scope": "/",
     "short_name": "Ecommerce Discos",
     "start_url": "./",
     "theme_color": "#7e3bb5",
