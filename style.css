@@ -22,7 +22,7 @@ span{
 }
 
 .pesquisa{
-    width: 50%;
+    width: 100%;
 }
 
 .comprar{
@@ -36,10 +36,8 @@ span{
     width: 100%;
 }
 
-.buscar{
-    margin: 0 auto;
-    display: block;
+.secao-pesquisa{
+    display: flex;
 }
-
 
 
