@@ -7,7 +7,7 @@
     "orientation": "any",
     "scope": "/",
     "short_name": "Ecommerce Discos",
-    "start_url": "/index.html",
+    "start_url": "./",
     "theme_color": "#7e3bb5",
     "categories": [],
     "screenshots": [],

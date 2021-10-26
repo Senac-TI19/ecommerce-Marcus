@@ -22,7 +22,7 @@ span{
 }
 
 .pesquisa{
-    width: 100%;
+    width: 50%;
 }
 
 .comprar{
@@ -34,6 +34,11 @@ span{
 
 .nome{
     width: 100%;
+}
+
+.buscar{
+    margin: 0 auto;
+    display: block;
 }
 
 
