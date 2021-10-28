@@ -22,7 +22,7 @@ span{
 }
 
 .pesquisa{
-    width: 100%;
+    width: 80%;
 }
 
 .comprar{
@@ -40,4 +40,32 @@ span{
     display: flex;
 }
 
+.titulo{
+    text-align: center;
+}
+.link-menu{
+    text-decoration: none;
+}
 
+.formulario{
+    display: flex;
+    flex-direction: column;
+    margin: 20px 5px;
+}
+
+.enviar{
+    display: block;
+    width: 100px;
+    font-size: 15px;
+    text-decoration: none;
+    margin: 20px 100px;
+}
+
+.tirarlinha{
+    text-decoration: none;
+}
+
+.compraRealizada{
+    text-align: center;
+    font-size: 50px;
+}

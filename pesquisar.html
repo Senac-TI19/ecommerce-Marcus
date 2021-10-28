@@ -27,22 +27,26 @@
 </head>
 <body>
 
+    <h1 class="titulo">Brazilian Beat</h1>
+
     <nav>
         <ul class="menu">
-            <li>Home</li>
-            <li>Loja</li>
-            <li>Minha Conta</li>
-            <li>Contato</li>
+            <li><a href="index.html" class="link-menu">Home</a></li>
+            <li><a href="index.html" class="link-menu">Loja</a></li>
+            <li><a href="minhaconta.html" class="link-menu">Minha Conta</a></li>
+            <li><a href="contato.html" class="link-menu">Contato</a></li>
         </ul>
     </nav>
 
     <section>
         <input type="search" class="pesquisa">
-        <input type="button" value="Buscar" class="buscar">
+        <a href="pesquisar.html">
+            <input type="button" value="Buscar" class="buscar">
+        </a>
     </section>
 
     <article class="produto">
-        <img src="https://immub-space.nyc3.digitaloceanspaces.com/capas/1025/thumbnails/m_1025ca.jpg" 
+        <img src="./img/m_1025ca.jpg" 
         class="imagem">
         <div class="nomeProduto">
             <h2>Alceu Valença - Anjo Avesso</h2>
@@ -50,7 +54,11 @@
         </div>
     </article>
 
-    <input type="button" value="Comprar" class="comprar">
+    <a href="compra.html" class="tirarlinha">
+        <input type="button" value="Comprar" class="comprar">
+        </a>
+    
+        <script src="index.js"></script>
     
 </body>
 </html>
